@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo apt update
-sudo apt install -y poppler-utils ffmpeg
+pip install -r requirements.txt
+python -m streamlit run app.py --server.maxUploadSize 1024
