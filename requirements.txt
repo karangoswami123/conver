@@ -1,0 +1,12 @@
+streamlit
+pillow
+pypdf2
+pdf2docx
+docx2pdf
+pdf2image
+ffmpeg-python
+watchdog
+python-magic
+numpy
+scipy
+pyyaml
